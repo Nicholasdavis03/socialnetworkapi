@@ -13,7 +13,8 @@ To get started with the project, follow these steps:
 
 ## Walkthrough Video
 
-[Link to Walkthrough Video](#) - (Include the link to your actual video here)
+[Untitled_ Feb 13, 2024 10_15 PM.webm](https://github.com/Nicholasdavis03/socialnetworkapi/assets/142276107/d955c7c7-29a1-4716-892b-5eec670980d8)
+
 
 The walkthrough video demonstrates the functionality of the API and how to test it using Insomnia.
 
